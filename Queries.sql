@@ -101,7 +101,7 @@ nifty_analysis;
 
 -- -------------------------------------------------------
 -- Query 9
--- M-o-M gains
+-- Monthly gains
 
 SELECT  Month_number,
         Month_name,
