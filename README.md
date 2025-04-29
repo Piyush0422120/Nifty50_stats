@@ -110,7 +110,9 @@ FROM nifty_analysis
 GROUP BY YEAR(_date);
 
 ```
-![image](https://github.com/user-attachments/assets/9b6d176c-a32b-4696-a675-ab80d976d91e)
+![image](https://github.com/user-attachments/assets/9b6d176c-a32b-4696-a675-ab80d976d91e)  
+
+You can check out the SQL code (queries) at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Queries.sql
 
 <BR>
 
@@ -119,5 +121,5 @@ To complement the SQL implementation, I created a Python-based version using Pan
 14 queries from the original SQL set have been re-implemented using Pandas.
 Added 3 CLI parameters to present additional insights and make the notebook more interactive.
 
-You can check out the pandas file at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Nifty.ipynb
+You can check out the jupyter notebook at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Nifty.ipynb
 
