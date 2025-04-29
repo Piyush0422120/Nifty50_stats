@@ -6,7 +6,7 @@ Total number of Queries: 22  <br><br>
 ![image](https://github.com/user-attachments/assets/687a3eef-bedc-4218-88f7-2d045a8386b7)  
 
 -  [Jump to SQL Snapshots](#snapshots)
--  [Jump to Pandas + CLI Section](#pandas)
+-  [Jump to Pandas Section](#pandas)
 
 ---
 ## SNAPSHOTS  
@@ -118,7 +118,8 @@ You can check out the SQL code (queries) at: https://github.com/Piyush0422120/Ni
 
 # Pandas
 To complement the SQL implementation, I created a Python-based version using Pandas and command-line interface (CLI) parameters:  
-14 queries from the original SQL set have been re-implemented using Pandas.
+  
+14 queries from the original SQL set have been re-implemented using Pandas.  
 Added 3 CLI parameters to present additional insights and make the notebook more interactive.
 
 You can check out the jupyter notebook at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Nifty.ipynb
