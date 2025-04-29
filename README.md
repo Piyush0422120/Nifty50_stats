@@ -119,8 +119,8 @@ You can check out the SQL code (queries) at: https://github.com/Piyush0422120/Ni
 # Pandas
 To complement the SQL implementation, I created a Python-based version using Pandas and command-line interface (CLI) parameters:  
   
-14 queries from the original SQL set have been re-implemented using Pandas.  
-Added 3 CLI parameters to present additional insights and make the notebook more interactive.
+1) 14 queries from the original SQL set have been re-implemented using Pandas.  
+2) Added 3 CLI parameters to present additional insights and make the notebook more interactive.
 
 You can check out the jupyter notebook at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Nifty.ipynb
 
