@@ -110,6 +110,10 @@ GROUP BY YEAR(_date);
 
 <BR>
 
+# Pandas
+To complement the SQL implementation, I created a Python-based version using Pandas and command-line interface (CLI) parameters:
+14 queries from the original SQL set have been re-implemented using Pandas.
+Added 3 CLI parameters to present additional insights and make the notebook more interactive.
 
-
+You can check out the pandas file at: https://github.com/Piyush0422120/Nifty50_stats/blob/main/Nifty.ipynb
 
