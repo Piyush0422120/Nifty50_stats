@@ -1,5 +1,5 @@
 # Nifty50_stats
-Objective: Nifty 50 analysis (from 2014-2024)
+Objective: Nifty 50 analysis (from 2014-2024)  
 Tools: SQL(MYSQL) , Python (Pandas)
 
 Total number of Queries: 22  <br><br>
