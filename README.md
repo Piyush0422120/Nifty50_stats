@@ -4,6 +4,9 @@ Objective: Nifty 50 analysis (from 2014-2024)
 Total number of Queries: 22  <br><br>
 ![image](https://github.com/user-attachments/assets/687a3eef-bedc-4218-88f7-2d045a8386b7)  
 
+-  [Jump to SQL Snapshots](#snapshots)
+-  [Jump to Pandas + CLI Section](#pandas)
+
 ---
 ## SNAPSHOTS  
 
